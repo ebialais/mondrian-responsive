@@ -54,7 +54,7 @@ body {
         background-image:  url('../img/whiteVeryHighRectangle.png');
         background-repeat: no-repeat;
         background-size: cover;
-        grid-column: span 1;
+        grid-column: span 2;
         grid-row: span 11;
     }
 
@@ -123,10 +123,10 @@ body {
     }
 
     .whiteThinRectangle {
-        background-image: url('../img/whiteVeryHighRectangle.png');
+        background-image: url('../img/whiteThinRectangle.png');
         background-repeat: no-repeat;
         background-size: cover;
-        grid-column: span 1;
+        grid-column: span 4;
         grid-row: span 11;
     }
 
@@ -136,6 +136,22 @@ body {
         background-size: cover;
         grid-column: span 1;
         grid-row: span 11;
+    }
+
+    .whiteLittleSquare {
+        background-image: url('../img/whiteLongRectangle.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        grid-column: span 1;
+        grid-row: span 1;
+    }
+
+    .whiteMidSquare {
+        background-image: url('../img/whiteLongRectangle.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        grid-column: span 1;
+        grid-row: span 2;
     }
 
 }
