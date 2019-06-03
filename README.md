@@ -1,6 +1,6 @@
 # mondrian-responsive
 
-Little personnal project to learn how to use CSS grid.
+After 3 weeks of training at Becode, I realize a little personnal project to learn how to use CSS grid.
 
 ## Visual
 
